@@ -1,0 +1,7 @@
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\bin\Debug\CrimeAnalyzer3.exe.config
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\bin\Debug\CrimeAnalyzer3.exe
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\bin\Debug\CrimeAnalyzer3.pdb
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\obj\Debug\CrimeAnalyzer3.csprojAssemblyReference.cache
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\obj\Debug\CrimeAnalyzer3.csproj.CoreCompileInputs.cache
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\obj\Debug\CrimeAnalyzer3.exe
+C:\Users\vikin\source\repos\CrimeAnalyzer3\CrimeAnalyzer3\obj\Debug\CrimeAnalyzer3.pdb
